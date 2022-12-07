@@ -6,7 +6,7 @@
 }
 a{
     text-decoration: none;
-    
+
 }
 body{
     background-color: #DEBACE;
@@ -96,7 +96,7 @@ p.logo span{
     -moz-box-shadow: 1px 1px 16px 0px rgba(0,0,0,0.4);
  }
  #img_gauche{
-    margin-right: 115px;
+    margin-right: 10%;
  }
  #introduction{
     margin-top: 200px;
